@@ -1,0 +1,5 @@
+Name1, Surname4, Street2, +380123456789
+Name2, Surname1, Street5, +380987654321
+Name4dddddddddddddd, Surname2dddddddddddd, Street3o213ui2o1urh, +380444555666orj12oiinweiq
+Name5, Surname3, Street1, +380777888999
+Olena, Boyko, Kopernyka 2, +380123456789
